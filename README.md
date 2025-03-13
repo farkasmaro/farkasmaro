@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farkasmaro
 
-- 🌱 I’m currently studying BSc (Hons) Cyber Security and Digital Forensics at UWE Bristol.
+- 🌱 BSc (Hons) Cyber Security and Digital Forensics Graduate, currently Security Threat Intelligence an Hunting Analyst
 
-- Currently using this page as a portfolio of uni and personal projects.
+- Portfolio of all-sorts
